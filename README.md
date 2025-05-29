@@ -21,8 +21,8 @@ Meu nome é **Beny Basawulo Kiamvu**, angolano de 19 anos e sou natural de Luand
             src="https://custom-icon-badges.demolab.com/github/followers/bybenb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://codepen.io/seuUsuario" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-+8p-black?logo=codepen&style=for-the-badge" alt="CodePen Profile" />
+    <a href="https://codepen.io/bybenb" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-+8p-black?logo=codepen&style=for-the-badge" alt="Perfil Codepen" />
     </a>
 
 </p>
@@ -153,6 +153,7 @@ style="padding: 5px 12px ; background-color: gainsboro; border-radius: 4px"
 
 <br>
 <br>
+
 ### 📊 Estatísticas
 <p>
   <img 
