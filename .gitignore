@@ -1,0 +1,16 @@
+
+*.log
+
+
+node_modules/
+
+
+.env
+
+
+dist/
+build/
+
+
+.vscode/
+.txt
