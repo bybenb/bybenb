@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Junior`**
 
-My name is **Beny Basawulo Kiamvu**, a 19-year-old from Luanda, Angola. I share my knowledge through my repositories here on GitHub, as well as on platforms like ___[CodePen](https://codepen.io/bybenb)___ and ___[YouTube](https://www.youtube.com/@ProgGennin)___.
+My name is **Beny Basawulo Kiamvu**, a 19-year-old from Luanda. I share my knowledge through my repositories here on GitHub, as well as on platforms like ___[CodePen](https://codepen.io/bybenb)___ and ___[YouTube](https://www.youtube.com/@ProgGennin)___.
 
 
 <p style="text-align: left;">
@@ -170,7 +170,7 @@ style="padding: 5px 12px ; background-color: gainsboro; border-radius: 4px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bybenb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <!-- Wklv Surjudp zdv pdgh eb 'Ehqb Uhlv LL' -->
-<!-- 'Three Letter Back' -->
+<!-- Three Letter Back' -->
 </p>
 
 
