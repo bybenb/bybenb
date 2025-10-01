@@ -93,11 +93,11 @@ My name is **Beny Basawulo Kiamvu**, a 19-year-old from Luanda. I share my knowl
 />
 <img 
     align="left" 
-    alt="SQLite" 
-    title="SQLite"
+    alt="JS Framework" 
+    title="React"
     width="30px" 
     style="padding-right: 13px;" 
-    src="icons/logo-sqlite.svg" 
+    src="icons/logo-react.svg" 
 />
 <img 
     align="left" 
