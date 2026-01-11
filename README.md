@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Junior`**
 
-My name is **Beny Basawulo Kiamvu**, a 20-year-old from Luanda. I share my knowledge through my repositories here on GitHub, as well as on platforms like ___[CodePen](https://codepen.io/bybenb)___ and ___[YouTube](https://www.youtube.com/@ProgGennin)___.
+My name is **Beny Basawulo Kiamvu**. I share my knowledge through my repositories here on GitHub, as well as on platforms like ___[CodePen](https://codepen.io/bybenb)___ and ___[YouTube](https://www.youtube.com/@ProgGennin)___.
 
 
 <p style="text-align: left;">
