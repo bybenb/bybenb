@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Junior`**
 
-My name is **Beny Basawulo Kiamvu**. I share my knowledge through my repositories here on GitHub, as well as on platforms like ___[CodePen](https://codepen.io/bybenb)___ and ___[YouTube](https://www.youtube.com/@ProgGennin)___.
+My name is **Beny Basawulo Kiamvu**. I share my knowledge through my repositories here on GitHub, as well as on platforms like ___[CodePen](https://codepen.io/bybenb)___ and ___[YouTube](https://www.youtube.com/@ProgGennin)___. I’m currently pursuing my studies at the Faculty of Science and Technology at "Óscar Ribas" University in Angola.
 
 
 <p style="text-align: left;">
@@ -54,12 +54,11 @@ My name is **Beny Basawulo Kiamvu**. I share my knowledge through my repositorie
 <!-- <img align="left" alt="TailwindCSS" title="TailwindCSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> -->
 
 
-<!-- ASPNet -->
-<img align="left" alt=".NET" title=".NET - ASPNET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
 
 
 
 <img align="left" alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+
 
 <img align="left" alt="Express.JS" title="Express.JS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
 
@@ -71,14 +70,19 @@ My name is **Beny Basawulo Kiamvu**. I share my knowledge through my repositorie
 <!-- <img align="left" alt="ASPNet" title="ASPNet" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/> -->
 
 
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+<img align="left" alt="Fastfy" title="FastiFy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg"/>
 
 
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<!-- <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> -->
 
 
-<img align="left" alt="FastiFy" title="FastiFy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
+<img align="left" alt="PostgreeSQL" title="PostgreeSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"/>
 
+<!-- ASPNet -->
+<img align="left" alt=".NET" title=".NET - ASPNET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+
+
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg"/>
 
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
@@ -96,6 +100,8 @@ My name is **Beny Basawulo Kiamvu**. I share my knowledge through my repositorie
  -->
 
 
+<br/>
+<br/>
 <br/>
 <br/>
 
